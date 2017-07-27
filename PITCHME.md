@@ -77,7 +77,8 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 ### Operações Morfológicas
 #### Abertura & Fechamento
 
-<img alt="Abertura" src="assets/abertura.png" width="30%"/><img alt="Fechamento" src="assets/fechamento.png" width="30%"/>
+<img alt="Abertura" src="assets/abertura.png" width="30%"/>
+<img alt="Fechamento" src="assets/fechamento.png" width="30%"/>
 
 +++
 
