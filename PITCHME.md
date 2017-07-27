@@ -48,6 +48,8 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ### Transformada de Distância
 
+<img alt="Cavalo DT" src="assets/cavalo_dt.png" width="50%"/>
+
 +++
 
 ### Operações Morfológicas
