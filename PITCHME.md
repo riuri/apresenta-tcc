@@ -34,6 +34,8 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ### Binarização de Imagens
 
+![Cavalo](assets/cavalo_bw.png)
+
 +++
 
 ### Transformada de Distância
