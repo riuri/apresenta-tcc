@@ -32,6 +32,14 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 +++
 
+### VANTs
+
+- Sensores
+- Atuadores
+- Controladora
+
++++
+
 ### Binarização de Imagens
 
 <img alt="Cavalo" src="assets/cavalo_bw.png" width="50%"/>
