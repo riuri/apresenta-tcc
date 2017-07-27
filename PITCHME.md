@@ -7,6 +7,37 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ##Fundamentação Teórica
 
+- Agricultura de Precisão
+- VANTs
+- Binarização de Imagens
+- Transformada de Distância
+- Operações morfológicas
+- Espaço de cores
+
++++
+
+### Agricultura de Precisão
+
++++
+
+### VANTs
+
++++
+
+### Binarização de Imagens
+
++++
+
+### Transformada de Distância
+
++++
+
+### Operações Morfológicas
+
++++
+
+### Espaço de Cores
+
 ---
 
 ##Trabalhos Correlatos
