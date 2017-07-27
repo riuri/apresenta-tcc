@@ -34,7 +34,7 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ### Binarização de Imagens
 
-<img alt="Cavalo" src="assets/cavalo_bw.png" height="90%"/>
+<img alt="Cavalo" src="assets/cavalo_bw.png" height="1600"/>
 
 +++
 
