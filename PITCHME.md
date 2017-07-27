@@ -40,7 +40,7 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ### Binarização de Imagens
 
-- Preto: $$v = 0$$ |
+- Preto: $$v = 0$$
 - Branco: $$v = 1$$ |
 - Escala de cinza: $$ 0 < v < 1$$ |
 
