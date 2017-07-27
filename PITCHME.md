@@ -18,6 +18,12 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ### Agricultura de Precisão
 
+- Divisão granulada do talhão
+- Georreferenciamento
+- Aplicação a taxa variável
+- NDVI
+- VANTs
+
 +++
 
 ### VANTs
