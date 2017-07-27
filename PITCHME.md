@@ -1,5 +1,6 @@
 # Identificação de linhas de plantio em imagens aéreas de lavouras
 Iuri Rezende Souza
+
 Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ---
