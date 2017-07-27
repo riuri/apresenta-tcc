@@ -61,6 +61,9 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 +++
 
 ### Operações Morfológicas
+#### Erosão
+
+![Erosão](assets/erosao.png)
 
 +++
 
