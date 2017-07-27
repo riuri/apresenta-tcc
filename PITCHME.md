@@ -72,6 +72,14 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ---
 
+## 3 Etapas do Algoritmo:
+
+1. Localização de Plantas
+2. Busca de Linhas Gerais
+3. Melhorar Linhas Encontradas
+
+---
+
 ##Localização de Plantas
 
 ---
