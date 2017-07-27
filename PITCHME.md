@@ -84,7 +84,7 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ### Espaço de Cores
 
-RGB
+####RGB
 
 <img alt="Cubo RGB" src="assets/rgb.png" width="50%"/>
 
@@ -92,7 +92,7 @@ RGB
 
 ### Espaço de Cores
 
-HSV
+####HSV
 
 <img alt="Cilindro HSV" src="assets/hsv.png" width="50%"/>
 
