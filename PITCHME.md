@@ -28,8 +28,6 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ### VANTs
 
-- SX2
-
 ![SX2](assets/sx2.jpg)
 
 +++
