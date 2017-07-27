@@ -67,6 +67,13 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 +++
 
+### Operações Morfológicas
+#### Dilatação
+
+<img alt="Dilatação" src="assets/dilatacao.png" width="50%"/>
+
++++
+
 ### Espaço de Cores
 
 ---
