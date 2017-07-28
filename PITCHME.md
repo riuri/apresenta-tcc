@@ -112,9 +112,22 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 ##Localização de Plantas
 
+1. Segmentação
+2. Centroides
+3. Área-ponto
+
++++
+
+###Segmentação
+
+- Transformação em [HSV](#/1/1)
+    - Utilização dos canais H e V
+- Erosão, seguida de dilatação
+
 ---
 
 ##Busca de Linhas Gerais
+
 
 +++
 
