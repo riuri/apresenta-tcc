@@ -136,6 +136,12 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 <img alt="Fluxograma Área-ponto" src="https://iuri.rsouza.nom.br/apresenta-tcc/assets/flow_areaponto.svg" width="30%" style="border:none"/>
 
++++
+
+###Encontrar pontos por Área-ponto
+
+<img alt="Fluxograma Área-ponto" src="https://iuri.rsouza.nom.br/apresenta-tcc/assets/areaponto.svg" width="100%" style="border:none"/>
+
 ---
 
 ##Busca de Linhas Gerais
