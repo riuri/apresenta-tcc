@@ -17,9 +17,7 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
 
 ---?include=topics/localizacao.md
----
 ---?include=topics/busca.md
----
 ---?include=topics/melhorar.md
 
 ##Resultados e Discussões
