@@ -113,8 +113,9 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 ##Localização de Plantas
 
 1. Segmentação
-2. Centroides
-3. Área-ponto
+2. Encontrar pontos
+    2. Centroides
+    3. Área-ponto
 
 +++
 
@@ -123,6 +124,17 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 - Transformação em [HSV](#/1/11)
     - Utilização dos canais H e V
 - Erosão, seguida de dilatação
+- Intersecção das regiões
+
++++
+
+###Encontrar pontos por Centroide
+
++++
+
+###Encontrar pontos por Área-ponto
+
+<img alt="Fluxograma Área-ponto" src="assets/flow_areaponto.svg" width="50%"/>
 
 ---
 
