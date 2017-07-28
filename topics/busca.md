@@ -9,6 +9,8 @@
 
 ###Direção do ponto mais próximo
 
+![Pontos mais próximos](assets/arrows.png)
+
 +++
 
 ###Direção predominante
