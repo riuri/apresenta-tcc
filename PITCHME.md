@@ -15,11 +15,13 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 2. Busca de Linhas Gerais
 3. Melhorar Linhas Encontradas
 
+---
 ---?include=topics/localizacao.md
-
+---
 ---?include=topics/busca.md
-
+---
 ---?include=topics/melhorar.md
+---
 
 ##Resultados e Discussões
 
