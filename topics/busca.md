@@ -9,7 +9,7 @@
 
 ###Direção do ponto mais próximo
 
-![Pontos mais próximos](assets/arrows.png)
+<img alt="Pontos mais próximos" src="assets/arrows.png" width="60%"/>
 
 +++
 
