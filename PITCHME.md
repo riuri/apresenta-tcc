@@ -26,13 +26,12 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 ---
 
 ##Conclusão e Trabalhos Futuros
-
 +++
 ###Conclusão
 - Fontes de erros |
 - Técnica de segmentação |
 - Problemas superados |
-
++++
 ###Trabalhos Futuros
 - Automatizar segmentação |
 - Falhas de plantio |
