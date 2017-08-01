@@ -32,7 +32,6 @@ Ideia: continuar a linha de acordo com as vizinhas
 ###Conectar linhas parecidas com polinômios
 <img alt="Previsão" src="assets/res2.png" width="60%"/>
 
-
 +++
 ###Suavizar ângulos agudos
 Novamente
