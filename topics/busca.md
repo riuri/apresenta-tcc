@@ -59,6 +59,6 @@ Contagem, 1, 1, 1, 1, 1, 18, 1, 1, 0
 ###Descartar ligações em excesso
 
 - Ponto central $B$
-- Pontos $P_i,\quad i \in \left{1, \dots, n\right}$
+- Pontos $P_i,\quad i \in \\{1, \dots, n\\}$
 - Buscar par $(i, j)$ com $\angle{P_iBP_j}$ máximo |
-- Desconectar $P_k,\quad k \in \{1, \dots, n\},\quad k \neq i, j$ |
+- Desconectar $P_k,\quad k \in {1, \dots, n},\quad k \neq i, j$ |
