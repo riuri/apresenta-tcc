@@ -11,13 +11,17 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 +++
 ###Trabalhos Correlatos
 - Søgaard e Olsen, 2003
-  - Sem segmentação |
+  - Sem segmentação
+  - Linhas são retas, devido à montagem da câmera |
 - García-Santillán et al, 2017
-  - Linhas Curvas |
+  - Linhas Curvas
+  - Linhas começam embaixo, devido à câmera no trator |
 - Lee, 2000
-  - Curva a partir de conjunto de pontos |
+  - Curva a partir de conjunto de pontos
+  - Pontos já classificados |
 - Ballard, 1981
-  - Transformada de Hough para formas arbitrárias |
+  - Transformada de Hough para formas arbitrárias
+  - Necessita conhecer a forma a priori |
 
 ---
 
