@@ -17,10 +17,12 @@ $\angle{ABC} < \frac{2\pi}{3} \Rightarrow$ elimina $B$
 
 <img alt="Final de linha" src="assets/ends.png" width="50%"/>
 
-$$\angle{SBL} < \frac{\pi}{36}$$
+$\angle{SBL} < \frac{\pi}{36} \Rightarrow$ elimina $L$
 
 +++
 ###Descartar linhas pequenas
+- Tratar linhas encontradas de plantas daninhas
+- Linha menor que 4 pontos $\Rightarrow$ eliminada
 
 +++
 ###Conectar linhas parecidas com polinômios
