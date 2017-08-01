@@ -15,7 +15,7 @@
 
 ###Direção predominante
 
-<table style="vertical-align:middle"><tr>
+<table style="vertical-align:middle;width=100%"><tr>
 <td>
 <img alt="Predominante" src="assets/predominant.png" width="100%"/>
 </td>
