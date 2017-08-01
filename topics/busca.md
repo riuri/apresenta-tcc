@@ -57,3 +57,8 @@ Contagem, 1, 1, 1, 1, 1, 18, 1, 1, 0
 
 +++
 ###Descartar ligações em excesso
+
+- Ponto central $$B$$
+- Pontos $$P_i, i \in \{1, \dots, n\}$$
+- Par $$(i, j)$$ com $$\angle{P_iBP_j}$$ máximo |
+- Desconectar $$P_k, k \in \{1, \dots, n\}, k \neq i, j$$ |
