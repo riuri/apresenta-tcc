@@ -47,7 +47,7 @@ Contagem, 1, 1, 1, 1, 1, 18, 1, 1, 0
 
 ###Conectar pontos vizinhos de linha
 
-<img alt="Retângulo de ligação" src="assets/rectangle" width="100%"/>
+<img alt="Retângulo de ligação" src="assets/rectangle.png" width="100%"/>
 
 +++
 
