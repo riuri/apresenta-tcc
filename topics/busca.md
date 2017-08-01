@@ -9,7 +9,13 @@
 
 ###Direção do ponto mais próximo
 
-<img alt="Pontos mais próximos" src="assets/arrows.png" width="40%"/>
+<img alt="Pontos mais próximos" src="assets/arrows.png" width="60%"/>
+
++++
+
+###Direção predominante
+
+<img alt="Predominante" src="assets/predominant.svg" width="60%"/>
 
 +++
 

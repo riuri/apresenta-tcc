@@ -13,7 +13,7 @@
    height="50mm"
    width="60mm"
    sodipodi:docname="predominant.svg"
-   inkscape:version="0.92.0 r">
+   inkscape:version="0.92.1 r">
   <metadata
      id="metadata5046">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,9 +39,9 @@
      inkscape:window-height="1471"
      id="namedview5044"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="76.430199"
-     inkscape:cy="119.71447"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="17.545119"
+     inkscape:cy="128.40908"
      inkscape:window-x="0"
      inkscape:window-y="55"
      inkscape:window-maximized="1"
@@ -70,16 +70,24 @@
   <g
      id="g5049"
      transform="translate(45.254834,-26.870057)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect4750"
+       width="226.77165"
+       height="188.97638"
+       x="-45.254833"
+       y="26.870056"
+       ry="3.9999599" />
     <image
-       sodipodi:absref="/home/iurirs/git/wscg/linhas03_bw.png"
+       sodipodi:absref="/home/iurirs/git/apresenta-tcc/assets/linhas03_bw.png"
        xlink:href="linhas03_bw.png"
-       y="6.9653888"
-       x="-344.50259"
-       width="565"
-       height="358"
-       preserveAspectRatio="none"
+       style="opacity:0.5"
        id="main"
-       style="opacity:0.5" />
+       preserveAspectRatio="none"
+       height="358"
+       width="565"
+       x="-344.50259"
+       y="6.9653888" />
     <g
        transform="translate(-344.5026,6.9653939)"
        id="setaLayer">
