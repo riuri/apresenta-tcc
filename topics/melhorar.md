@@ -28,6 +28,10 @@ Ideia: continuar a linha de acordo com as vizinhas
 
 <img alt="Paralelogramo" src="assets/paralelogramo.png" width="40%"/>
 
++++
+###Conectar linhas parecidas com polinômios
+<img alt="Previsão" src="assets/res2.png" width="60%"/>
+
 
 +++
 ###Suavizar ângulos agudos
