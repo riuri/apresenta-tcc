@@ -8,6 +8,8 @@
 +++
 ###Suavizar ângulos agudos
 
+<img alt="Suavização" src="assets/agudo.png" width="80%"/>
+
 +++
 ###Cortar finais de Linhas
 
