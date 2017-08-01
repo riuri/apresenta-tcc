@@ -53,4 +53,7 @@ Contagem, 1, 1, 1, 1, 1, 18, 1, 1, 0
 
 ###Descartar ligações em excesso
 
-<img alt="Ideia do descarte" src="assets/descartar.png" width="80%"/>
+<img alt="Ideia do descarte" src="assets/descartar.png" width="60%"/>
+
++++
+###Descartar ligações em excesso
