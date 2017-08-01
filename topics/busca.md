@@ -21,7 +21,12 @@
 <img alt="Predominante" src="assets/predominant.png" width="60%"/>
 
 +++
+###Direção predominante
+|Direção $$\theta_i$$|Contagem|Frequência|
+|---|---|---|
+|$$i=0$$|1|4%|
 
++++
 ###Direção predominante
 
 <canvas data-chart="radar">
