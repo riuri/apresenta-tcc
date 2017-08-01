@@ -20,4 +20,4 @@
 
 +++
 ###Exemplos
-<img alt="Resultado 5" src="assets/out05.png" width="60%"/>
+<img alt="Resultado 5" src="assets/out05.png" width="50%"/>
