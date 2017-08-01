@@ -18,10 +18,12 @@
 
 +++
 ###Direção predominante
+Exemplo
 <img alt="Predominante" src="assets/predominant.png" width="60%"/>
 
 +++
 ###Direção predominante
+Exemplo
 |Direção $$\theta_i$$|Contagem|Frequência|
 |:---:|:---:|:---:|
 |$$i=0, 1, 2, 3, 4$$|1|4%|
@@ -31,7 +33,7 @@
 
 +++
 ###Direção predominante
-
+Exemplo
 <canvas data-chart="radar">
 Direção, 0, 1, 2, 3, 4, 5, 6, 7, 8
 Contagem, 1, 1, 1, 1, 1, 18, 1, 1, 0
