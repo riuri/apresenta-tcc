@@ -10,10 +10,10 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 ##Trabalhos Correlatos
 +++
 ###Trabalhos Correlatos
-- Søgaard e Olsen, 2003: Linhas de plantio sem segmentação
-  - Linhas são retas, devido à montagem da câmera |
+- Søgaard e Olsen, 2003: Linhas de plantio
+  - Linhas precisam ser retas, câmera no trator |
 - García-Santillán et al, 2017: Linhas de plantio curvas
-  - Linhas começam embaixo, devido à câmera no trator |
+  - Linhas começam embaixo, câmera no trator |
 - Lee, 2000: Curva geral a partir dos pontos
   - Pontos necessitam já estar classificados |
 - Ballard, 1981: Várias curvas arbitrárias
