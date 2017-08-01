@@ -19,6 +19,7 @@
 +++
 ###Direção predominante
 Exemplo
+
 <img alt="Predominante" src="assets/predominant.png" width="60%"/>
 
 +++
@@ -35,6 +36,7 @@ Exemplo
 +++
 ###Direção predominante
 Exemplo
+
 <canvas data-chart="radar">
 Direção, 0, 1, 2, 3, 4, 5, 6, 7, 8
 Contagem, 1, 1, 1, 1, 1, 18, 1, 1, 0
