@@ -37,4 +37,4 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 - Falhas de plantio |
 - Contagem de plantas |
 ---
-Obrigado! 🙂
+##Obrigado!
