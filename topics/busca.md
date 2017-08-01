@@ -24,6 +24,7 @@ Exemplo
 +++
 ###Direção predominante
 Exemplo
+
 |Direção $$\theta_i$$|Contagem|Frequência|
 |:---:|:---:|:---:|
 |$$i=0, 1, 2, 3, 4$$|1|4%|
