@@ -8,7 +8,9 @@
 +++
 ###Suavizar ângulos agudos
 
-<img alt="Suavização" src="assets/agudo.png" width="80%"/>
+<img alt="Suavização" src="assets/agudo.png" width="50%"/>
+
+$$\angle{ABC} < \frac{2\pi}{3}$$
 
 +++
 ###Cortar finais de Linhas
