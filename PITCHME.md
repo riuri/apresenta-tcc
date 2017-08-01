@@ -36,3 +36,5 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 - Automatizar segmentação |
 - Falhas de plantio |
 - Contagem de plantas |
+---
+Obrigado! 🙂
