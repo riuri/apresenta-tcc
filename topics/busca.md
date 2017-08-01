@@ -15,8 +15,14 @@
 
 ###Direção predominante
 
+<table><tr>
+<td>
 <img alt="Predominante" src="assets/predominant.png" width="30%"/>
+</td>
+<td>
 <img alt="Direções" src="assets/directions.png" width="30%"/>
+</td>
+</tr></table>
 
 +++
 
