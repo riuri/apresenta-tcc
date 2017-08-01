@@ -8,6 +8,16 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 ---
 
 ##Trabalhos Correlatos
++++
+###Trabalhos Correlatos
+- Søgaard e Olsen, 2003
+  - Sem segmentação |
+- García-Santillán et al, 2017
+  - Linhas Curvas |
+- Lee, 2000
+  - Curva a partir de conjunto de pontos |
+- Ballard, 1981
+  - Transformada de Hough para formas arbitrárias |
 
 ---
 
