@@ -17,3 +17,7 @@
     - Falso Positivo
     - Falso Negativo
 - Score F1 = 0.965 $$ \frac{2}{\frac{VP}{VP+FP} + \frac{VP}{VP+FN}} $$
+
++++
+###Exemplos
+<img alt="Resultado 5" src="assets/out05.png" width="60%"/>
