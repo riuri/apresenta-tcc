@@ -14,11 +14,11 @@
 +++
 
 ###Direção predominante
-<img alt="Direções" src="assets/directions.png" width="100%"/>
+<img alt="Direções" src="assets/directions.png" width="60%"/>
 
 +++
 ###Direção predominante
-<img alt="Predominante" src="assets/predominant.png" width="100%"/>
+<img alt="Predominante" src="assets/predominant.png" width="60%"/>
 
 +++
 
