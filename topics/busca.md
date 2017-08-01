@@ -15,7 +15,7 @@
 
 ###Direção predominante
 
-<img alt="Predominante" src="assets/predominant.svg" width="60%"/>
+<img alt="Predominante" src="assets/predominant.png" width="60%"/>
 
 +++
 
