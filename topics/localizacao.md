@@ -6,7 +6,7 @@
 
 +++
 ###Segmentação
-- Transformação em [HSV](#/1/11) |
+- Transformação em HSV |
     - Utilização dos canais H e V |
 - Erosão, seguida de dilatação |
 - Intersecção das regiões |
