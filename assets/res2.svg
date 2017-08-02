@@ -71,6 +71,7 @@
        width="594"
        height="402"
        preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
        id="main" />
     <circle
        style="fill:#ff0000"
