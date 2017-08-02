@@ -14,11 +14,6 @@
 - NDVI |
 - VANTs |
 
-Note:
-- Máquinas agrícolas com monitores
-- Nuvens
-- Satélites
-
 +++
 ### VANTs
 ![SX2](assets/sx2.jpg)
