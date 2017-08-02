@@ -10,11 +10,11 @@
 <img alt="Pontos mais próximos" src="assets/arrows.png" width="60%"/>
 
 +++
-###Direção predominante
+###Classificação das direções
 <img alt="Direções" src="assets/directions.png" width="40%"/>
 
 +++
-###Direção predominante
+###Classificação das direções
 Exemplo
 
 <img alt="Predominante" src="assets/predominant.png" width="60%"/>
