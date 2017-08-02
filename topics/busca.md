@@ -14,9 +14,7 @@
 <img alt="Direções" src="assets/directions.png" width="40%"/>
 
 +++
-###Classificação das direções
-Exemplo
-
+###Exemplo de classificação
 <img alt="Predominante" src="assets/predominant.png" width="50%"/>
 
 +++
