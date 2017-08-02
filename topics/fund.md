@@ -58,9 +58,9 @@
 ### Espaço de Cores
 ####RGB
 
-<img alt="Cubo RGB" src="assets/rgb.png" width="50%"/>
+<img alt="Cubo RGB" src="assets/rgb.png" width="60%"/>
 
 +++
 ### Espaço de Cores
 ####HSV
-<img alt="Cilindro HSV" src="assets/hsv.png" width="50%"/>
+<img alt="Cilindro HSV" src="assets/hsv.png" width="60%"/>
