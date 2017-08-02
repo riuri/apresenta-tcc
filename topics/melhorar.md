@@ -15,7 +15,7 @@ $\angle{ABC} < \frac{2\pi}{3} \Rightarrow$ elimina $B$
 ###Cortar finais de Linhas
 <img alt="Final de linha" src="assets/ends.png" width="50%"/>
 
-$\angle{SBL_5} > \frac{\pi}{36} \Rightarrow$ elimina $L$
+$\angle{SB_{5}L} > \frac{\pi}{36} \Rightarrow$ elimina $L$
 
 +++
 ###Descartar linhas pequenas
