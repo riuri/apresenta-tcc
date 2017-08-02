@@ -60,6 +60,8 @@ Note:
 
 +++
 ###Encontrar pontos por Área-ponto
+Transformada de Distância
+
 <img alt="Transformada Área-ponto" src="assets/areaponto_dt.png" width="100%" />
 
 Note:
