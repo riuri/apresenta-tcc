@@ -26,6 +26,10 @@ Note:
 - Outros ruídos
 
 +++
+###Linhas formadas por ervas daninhas
+![Linha extra](assets/minilinha.jpg)
+
++++
 ###Descartar linhas pequenas
 - Tratar linhas encontradas de plantas daninhas
 - Linha menor que 4 pontos $\Rightarrow$ eliminada
