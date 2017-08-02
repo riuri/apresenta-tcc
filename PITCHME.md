@@ -3,6 +3,11 @@ Iuri Rezende Souza
 
 Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 
+Note:
+- Apresentar-se e o problema
+- Viabilidade comercial manual de falhas
+- Automatização da busca de linhas
+
 ---?include=topics/fund.md
 
 ---
@@ -11,13 +16,18 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 +++
 ###Trabalhos Correlatos
 - Søgaard e Olsen, 2003: Linhas de plantio
-  - Linhas precisam ser retas, câmera no trator |
+  - Linhas precisam ser retas, dependência de outras ervas |
 - García-Santillán et al, 2017: Linhas de plantio curvas
   - Linhas começam embaixo, câmera no trator |
 - Lee, 2000: Curva geral a partir dos pontos
   - Pontos necessitam já estar classificados |
 - Ballard, 1981: Várias curvas arbitrárias
   - Necessita conhecer a forma a priori |
+
+Note:
+- Søgaard sem segmentação
+- García-Santillán mostra necessidade de curvas
+- Ressaltar semelhanças e diferenças
 
 ---
 
@@ -41,10 +51,27 @@ Orientador: Prof. Dr. Mauricio Cunha Escarpinati
 - Fontes de erros |
 - Técnica de segmentação |
 - Problemas superados |
+
+Note:
+- Fonte de FP e FN
+- Dependência de H, V e sobreposição e Culturas
+- Superou diferentes talhões, obstáculos
+- Superou falhas
+- Reforçar VANT (diferenciar de outros trabs)
+
 +++
 ###Trabalhos Futuros
 - Automatizar segmentação |
 - Falhas de plantio |
 - Contagem de plantas |
+
+Note:
+- Lembrar da viabilidade comercial manual
 ---
 ##Obrigado!
+
+Note:
+- Sensix
+- Mauricio
+- Banca
+- Presentes
