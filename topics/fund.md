@@ -1,7 +1,7 @@
 ##Contextualização
 - VANTs
 - Agricultura de Precisão
-- Processamento de Imagens
+- Falhas de plantio
 
 +++
 ### VANTs
