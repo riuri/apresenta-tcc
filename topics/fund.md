@@ -20,4 +20,4 @@ Note:
 
 +++
 ### Agricultura de Precisão
-![Falha de plantio](assets/cafe.jpg)
+<img alt="Falha de plantio" src="assets/cafe.jpg" width="50%" />
