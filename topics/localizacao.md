@@ -48,6 +48,10 @@ Note:
 
 +++
 ###Encontrar pontos por Área-ponto
+<img alt="Fluxograma Área-ponto" src="assets/sobrepoe.png" width="80%" style="border:none"/>
+
++++
+###Encontrar pontos por Área-ponto
 <img alt="Fluxograma Área-ponto" src="assets/flow_areaponto.png" width="30%" style="border:none"/>
 
 Note:
