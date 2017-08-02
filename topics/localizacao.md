@@ -6,13 +6,19 @@
 
 +++
 ###Segmentação
-- Transformação em HSV |
-    - Utilização dos canais H e V |
+Transformação em HSV
+
+<img alt="Cilindro HSV" src="assets/hsv.png" width="60%"/>
+
+Note:
+- H é a cor, V é pelas ervas
+
++++
+###Segmentação
 - Erosão, seguida de dilatação |
 - Intersecção das regiões |
 
 Note:
-- H é a cor, V observado pelas ervas
 - Erosão para filtar
 - Dilatação para juntar regiões separadas
 - Intersecção pq critérios excludentes

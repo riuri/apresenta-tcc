@@ -19,5 +19,9 @@ Note:
 - Linhas de plantio
 
 +++
-### Agricultura de Precisão
+### Falhas de plantio
 <img alt="Falha de plantio" src="assets/cafe.jpg" width="60%" />
+
++++
+### Falhas de plantio
+<img alt="Falha de plantio e ervas" src="assets/cafe2.jpg" width="60%" />
