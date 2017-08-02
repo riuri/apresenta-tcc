@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      id="namedview5044"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="17.545119"
-     inkscape:cy="128.40908"
+     inkscape:cx="18.252226"
+     inkscape:cy="127.70197"
      inkscape:window-x="0"
      inkscape:window-y="55"
      inkscape:window-maximized="1"
@@ -81,13 +81,14 @@
     <image
        sodipodi:absref="/home/iurirs/git/apresenta-tcc/assets/linhas03_bw.png"
        xlink:href="linhas03_bw.png"
-       style="opacity:0.5"
-       id="main"
-       preserveAspectRatio="none"
-       height="358"
-       width="565"
+       image-rendering=""
+       y="6.9653888"
        x="-344.50259"
-       y="6.9653888" />
+       width="565"
+       height="358"
+       preserveAspectRatio="none"
+       id="main"
+       style="opacity:0.5;image-rendering:optimizeSpeed" />
     <g
        transform="translate(-344.5026,6.9653939)"
        id="setaLayer">

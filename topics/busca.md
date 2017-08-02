@@ -6,13 +6,10 @@
 4. Descartar ligações em excesso
 
 +++
-
 ###Direção do ponto mais próximo
-
 <img alt="Pontos mais próximos" src="assets/arrows.png" width="60%"/>
 
 +++
-
 ###Direção predominante
 <img alt="Direções" src="assets/directions.png" width="40%"/>
 
@@ -34,30 +31,15 @@ Exemplo
 |$$8$$|0|0%|
 
 +++
-###Direção predominante
-Exemplo
-
-<canvas data-chart="radar">
-Direção, 0, 1, 2, 3, 4, 5, 6, 7, 8
-Contagem, 1, 1, 1, 1, 1, 18, 1, 1, 0
-</canvas>
-
-
-+++
-
 ###Conectar pontos vizinhos de linha
-
 <img alt="Retângulo de ligação" src="assets/rectangle.png" width="100%"/>
 
 +++
-
 ###Descartar ligações em excesso
-
 <img alt="Ideia do descarte" src="assets/descartar.png" width="60%"/>
 
 +++
 ###Descartar ligações em excesso
-
 - Ponto central $B$
 - Pontos $P_i,~ i \in \\{1, \dots, n\\}$
 - Buscar par $(i, j)$ com $\angle{P_iBP_j}$ máximo |
