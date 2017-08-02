@@ -27,7 +27,7 @@ Note:
 
 +++
 ###Linhas formadas por ervas daninhas
-![Linha extra](assets/minilinha.jpg)
+<img alt="Linha extra" src="assets/minilinha.jpg" width="80%"/>
 
 +++
 ###Descartar linhas pequenas
@@ -36,7 +36,7 @@ Note:
 
 +++
 ###Falhas de plantio?
-![Falhas de plantio](assets/gaps.png)
+<img alt="Falhas de plantio" src="assets/gaps.png" width="80%"/>
 
 +++
 ###Conectar linhas parecidas com polinômios
