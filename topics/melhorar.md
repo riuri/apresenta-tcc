@@ -29,7 +29,7 @@ Ideia: continuar a linha de acordo com as vizinhas
 <img alt="Paralelogramo" src="assets/paralelogramoE.png" width="40%"/>
 
 +++
-<!-- .slide: data-background-transition="fade" -->
+<!-- .slide: transition="fade" -->
 ###Conectar linhas parecidas com polinômios
 Ideia: continuar a linha de acordo com as vizinhas
 
