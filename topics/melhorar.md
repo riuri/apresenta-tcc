@@ -26,7 +26,7 @@ $\angle{SB_{5}L} > \frac{\pi}{36} \Rightarrow$ elimina $L$
 ###Conectar linhas parecidas com polinômios
 Ideia: continuar a linha de acordo com as vizinhas
 
-<img alt="Paralelogramo" src="assets/paralelogramo.png" width="40%"/>
+<img alt="Paralelogramo" src="assets/paralelogramo.gif" width="60%"/>
 
 +++
 ###Conectar linhas parecidas com polinômios
