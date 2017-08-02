@@ -31,6 +31,10 @@ Note:
 - Linha menor que 4 pontos $\Rightarrow$ eliminada
 
 +++
+###Falhas de plantio?
+![Falhas de plantio](assets/gaps.png)
+
++++
 ###Conectar linhas parecidas com polinômios
 <img alt="Paralelogramo" src="assets/paralelogramo.gif" width="60%"/>
 
