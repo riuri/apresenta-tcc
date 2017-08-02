@@ -16,13 +16,27 @@ Note:
 +++
 ###Segmentação
 <img alt="Segmentada" src="assets/pre.png" width="30%"/>
+
++++
+### Segmentação
+#### Erosão
+<img alt="Erosão" src="assets/erosao.png" width="50%"/>
+
++++
+###Segmentação
+<img alt="Segmentada" src="assets/pre.png" width="30%"/>
+<img alt="Erodida" src="assets/ero.png" width="30%"/>
+
++++
+### Segmentação
+#### Dilatação
+<img alt="Dilatação" src="assets/dilatacao.png" width="50%"/>
+
++++
+###Segmentação
+<img alt="Segmentada" src="assets/pre.png" width="30%"/>
 <img alt="Erodida" src="assets/ero.png" width="30%"/>
 <img alt="Dilatada" src="assets/dil.png" width="30%"/>
-
-Note:
-- Erosão para filtar
-- Dilatação para juntar regiões separadas
-- Intersecção pq critérios excludentes
 
 +++
 ###Encontrar pontos por Centroide
