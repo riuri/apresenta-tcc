@@ -17,7 +17,7 @@
 ###Classificação das direções
 Exemplo
 
-<img alt="Predominante" src="assets/predominant.png" width="60%"/>
+<img alt="Predominante" src="assets/predominant.png" width="50%"/>
 
 +++
 ###Direção predominante
