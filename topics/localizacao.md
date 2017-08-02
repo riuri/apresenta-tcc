@@ -15,8 +15,9 @@ Note:
 
 +++
 ###Segmentação
-- Erosão, seguida de dilatação |
-- Intersecção das regiões |
+<img alt="Segmentada" src="assets/pre.png" width="30%"/>
+<img alt="Erodida" src="assets/ero.png" width="30%"/>
+<img alt="Dilatada" src="assets/dil.png" width="30%"/>
 
 Note:
 - Erosão para filtar
