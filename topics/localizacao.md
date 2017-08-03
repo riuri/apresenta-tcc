@@ -14,8 +14,13 @@ Note:
 - H é a cor, V é pelas ervas
 
 +++
-###Segmentação
+###Binarização
+Threshold por Otsu
+
 <img alt="Segmentada" src="assets/pre.png" width="30%"/>
+
+Note:
+OTSU
 
 +++
 ### Segmentação

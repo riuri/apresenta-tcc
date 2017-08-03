@@ -48,12 +48,10 @@ Note:
 ##Conclusão e Trabalhos Futuros
 +++
 ###Conclusão
-- Fontes de erros |
 - Técnica de segmentação |
 - Problemas superados |
 
 Note:
-- Fonte de FP e FN
 - Dependência de H, V e sobreposição e Culturas
 - Superou diferentes talhões, obstáculos
 - Superou falhas
