@@ -19,9 +19,9 @@ Note:
 - Linhas de plantio
 
 +++
-### Falhas de plantio
+### Linhas de plantio
 <img alt="Falha de plantio" src="assets/cafe.jpg" width="60%" />
 
 +++
-### Falhas de plantio
+### Linhas de plantio
 <img alt="Falha de plantio e ervas" src="assets/cafe2.jpg" width="60%" />
