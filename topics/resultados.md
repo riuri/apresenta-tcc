@@ -1,7 +1,7 @@
 ## Resultados e Discussões
 +++
 
-###Validação
+### Validação
 - 20 imagens
 - Variadas características
 - Culturas:
@@ -16,7 +16,7 @@ Note:
 - Desenvolvido no café, testado em outras
 
 +++
-###Validação
+### Validação
 - Comprimentos
     - Verdadeiro Positivo
     - Falso Positivo
@@ -32,5 +32,5 @@ Note:
 - Resultado F1 depois
 
 +++
-###Exemplo
+### Exemplo
 <img alt="Resultado 5" src="assets/out05.png" width="50%"/>

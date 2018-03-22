@@ -12,9 +12,9 @@ Note:
 
 ---
 
-##Trabalhos Correlatos
+## Trabalhos Correlatos
 +++
-###Trabalhos Correlatos
+### Trabalhos Correlatos
 - Søgaard e Olsen, 2003: Linhas de plantio
   - Linhas precisam ser retas, dependência de outras ervas |
 - García-Santillán et al, 2017: Linhas de plantio curvas
@@ -45,9 +45,9 @@ Note:
 
 ---
 
-##Conclusão e Trabalhos Futuros
+## Conclusão e Trabalhos Futuros
 +++
-###Conclusão
+### Conclusão
 - Técnica de segmentação |
 - Problemas superados |
 
@@ -58,7 +58,7 @@ Note:
 - Reforçar VANT (diferenciar de outros trabs)
 
 +++
-###Trabalhos Futuros
+### Trabalhos Futuros
 - Automatizar segmentação |
 - Falhas de plantio |
 - Contagem de plantas |
@@ -66,7 +66,7 @@ Note:
 Note:
 - Lembrar da viabilidade comercial manual
 ---
-##Obrigado!
+## Obrigado!
 
 Note:
 - Sensix

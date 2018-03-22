@@ -1,4 +1,4 @@
-##Busca de Linhas Gerais
+## Busca de Linhas Gerais
 
 1. Selecionar direção do ponto mais próximo
 2. Selecionar direção predominante
@@ -6,21 +6,21 @@
 4. Descartar ligações em excesso
 
 +++
-###Direção do ponto mais próximo
+### Direção do ponto mais próximo
 <img alt="Pontos mais próximos" src="assets/arrows.png" width="60%"/>
 
 Note:
 - Lembrar que pode mais de 2 ligados
 
 +++
-###Classificação das direções
+### Classificação das direções
 <img alt="Direções" src="assets/directions.png" width="40%"/>
 
 Note:
 - Cada cor representa uma direção
 
 +++
-###Exemplo de classificação
+### Exemplo de classificação
 <img alt="Predominante" src="assets/predominant.png" width="50%"/>
 
 Note:
@@ -28,7 +28,7 @@ Note:
 - Presença de outras
 
 +++
-###Direção predominante
+### Direção predominante
 Exemplo
 
 |Direção $\theta_i$|Contagem|Frequência|
@@ -43,7 +43,7 @@ Note:
 - Muito na 5, pouco nas outras
 
 +++
-###Conectar pontos vizinhos de linha
+### Conectar pontos vizinhos de linha
 <img alt="Retângulo de ligação" src="assets/rectangle.png" width="100%"/>
 
 Note:
@@ -52,14 +52,14 @@ Note:
 - Ponto mto longe pode estar curvado
 
 +++
-###Descartar ligações em excesso
+### Descartar ligações em excesso
 <img alt="Ideia do descarte" src="assets/descartar.png" width="60%"/>
 
 Note:
 - Retornar ideia de ponto ligado pode ser mais de 1
 
 +++
-###Descartar ligações em excesso
+### Descartar ligações em excesso
 - Ponto central $B$
 - Pontos $P_i,~ i \in \\{1, \dots, n\\}$
 - Buscar par $(i, j)$ com $\angle{P_iBP_j}$ máximo |
