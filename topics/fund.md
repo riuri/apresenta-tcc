@@ -1,7 +1,7 @@
 ## Contextualização
-- VANTs
-- Agricultura de Precisão
-- Falhas de plantio
+- UAV
+- Precision Agriculture
+- Crop Lines detection;
 
 +++
 ### VANTs
