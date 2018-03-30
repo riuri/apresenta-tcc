@@ -1,7 +1,13 @@
 ## Contextualização
-- UAV
-- Precision Agriculture
-- Crop Lines detection;
+- For the Precision agriculture, the crop lines identification is a process that allow operations like:
+  - Crop planning
+  - Production estimation
+  - Crop counting
+  - Harvest planning
+  - Early correction of sowing flaws
+  - etc.
+- The UAVs in agriculture is an increasing phenomena, as it is more cost-effective than satellite or regular airplane imagery, allowing for shorter periods between monitoring of crops
+
 
 +++
 ### VANTs
